@@ -1,13 +1,11 @@
 <img src="https://res.cloudinary.com/boolean-spa/image/upload/v1591158800/logo_vayedu.svg" width=100> 
 
-## Capítulo 2: Setup para implementar pruebas de software
+## Capítulo 2: Más sobre los fundamentos de Javascript
 #### Contenidos :books:
-👉🏻 &nbsp;Configuración de NodeJs y ambiente <br/>
-👉🏻 &nbsp;Ejecutores de prueba<br/>
-👉🏻 &nbsp;Configuración para pruebas de Frontend<br/>
-👉🏻 &nbsp;¿Qué es FIRST?<br/>
+👉🏻 &nbsp; Arreglos: Ciclos funcionales vs Ciclos void y enfoques de programación Callbacks.<br/>
+👉🏻 &nbsp; Javascript NO es asíncrono: ¿Qué es el call stack, el call Queue y el motor v8?<br/>
 
-Programa completo [aquí](https://drive.google.com/open?id=1pz9LCqUx2sgtuk0cekVucWc0lxEzoLXx)
+Programa completo [aquí](#)
 
 #### Actividades de la clase 🧑🏻‍🏫
 
