@@ -1,4 +1,3 @@
-
 <img src="https://res.cloudinary.com/boolean-spa/image/upload/v1591158800/logo_vayedu.svg" width=100> 
 
 ## Capítulo 4: Web APIS y más Teoría de Javascript
@@ -9,7 +8,7 @@
 👉🏻 &nbsp;Compatibilidad entre navegadores<br/>
 👉🏻 &nbsp;Herramientas<br/>
 
-Programa completo [aquí](https://#)
+Programa completo [aquí](#)
 
 #### Actividades de la clase 🧑🏻‍🏫
 
